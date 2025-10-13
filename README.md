@@ -94,7 +94,7 @@ I love solving challenging problems, working on **real-time systems**, and integ
 ---
 
 ### 🌦️ **Weather Prediction System (Research Internship)**
-> **Tech:** Python, Django, Scikit-learn, Pandas  
+> **Tech:** Python, Scikit-learn, Pandas, NumPy, Django, Matplotlib/Seaborn
 - Achieved R² > 0.85 using Random Forest, SVM, and KNN models.  
 - Built scalable forecasting web app under **Dr. Tayyab Khan**, IIIT Sonepat.  
 
