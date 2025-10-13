@@ -20,7 +20,7 @@ Hey there! I’m **Brajesh Kumar**, a **Full Stack Developer** and **AI Enthusia
 I love solving challenging problems, working on **real-time systems**, and integrating **LLMs** with modern web technologies.
 
 - 🔭 Currently exploring **RAG pipelines** & **LLM-based web applications**
-- 🧠 Skilled in **MERN**, **LangChain**, **LLaMA**, and **OpenAI API**
+- 🧠 Skilled in **MERN**, **LangChain**, **LLaMA**, and **Grok API**
 - ⚙️ Strong understanding of **backend optimization**, **authentication**, and **semantic search**
 - 🎯 Goal: To design robust systems that blend intelligence with performance.
 
