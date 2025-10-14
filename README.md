@@ -103,7 +103,7 @@ I love solving challenging problems, working on **real-time systems**, and integ
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brajeshKumar7&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=brajeshKumar7&theme=tokyonight" alt="streak"/>
 </p>
 
 <p align="center">
