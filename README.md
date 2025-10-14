@@ -104,10 +104,11 @@ I love solving challenging problems, working on **real-time systems**, and integ
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.vercel.app?user=brajeshKumar7&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=FF8C00&ring=00FFFF&currStreakLabel=00FFFF&background=0D1117&cache_seconds=86400" 
+    src="https://streak-stats.demolab.com?user=brajeshKumar7&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=FF8C00&ring=00FFFF&currStreakLabel=00FFFF&background=0D1117&cache_seconds=86400" 
     alt="GitHub Streak"
   />
 </p>
+
 
 <p align="center">
   <img 
