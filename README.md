@@ -143,7 +143,7 @@ I enjoy working on backend-heavy systems, evaluation pipelines, and data-driven 
     alt="GitHub Stats"
   />
 </p>
-<p>
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=brajeshKumar7&layout=compact"
     alt="Top Languages"
