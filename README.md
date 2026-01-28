@@ -123,6 +123,8 @@ I enjoy working on backend-heavy systems, evaluation pipelines, and data-driven 
 - Prompt flows with safety guardrails to reduce hallucinations  
 - Flask UI with **~2s average response latency**
 
+🔗 Repository: https://github.com/brajeshkumar7/Medical-Chatbot-GenAI
+
 ---
 
 ## 🏆 Achievements
