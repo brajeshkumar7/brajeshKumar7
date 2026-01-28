@@ -139,14 +139,14 @@ I enjoy working on backend-heavy systems, evaluation pipelines, and data-driven 
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=brajeshKumar7&show_icons=true&theme=default"
+    src="https://github-readme-stats.vercel.app/api?username=brajeshKumar7&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brajeshKumar7&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brajeshKumar7&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </p>
