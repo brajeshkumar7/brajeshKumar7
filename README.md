@@ -137,8 +137,6 @@ I enjoy working on backend-heavy systems, evaluation pipelines, and data-driven 
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=brajeshKumar7&show_icons=true&theme=default"
