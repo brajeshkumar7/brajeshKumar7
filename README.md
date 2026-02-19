@@ -74,22 +74,6 @@ I enjoy working on backend-heavy systems, evaluation pipelines, and data-driven 
 
 ---
 
-## 💼 Experience
-
-### 🔬 Research Intern — IIIT Sonepat  
-**Jan 2025 – Jun 2025**  
-*Under Dr. Tayyab Khan*
-
-**LLM-Assisted Models Evaluation & Benchmarking**
-
-- Built a **production-ready evaluation framework** automating training, 5-fold cross-validation, and comparison of **6+ ML models**
-- Designed deterministic preprocessing and schema-validated pipelines ensuring **100% reproducibility** and leakage-free evaluation
-- Integrated **LLM-assisted hyperparameter suggestion** via OpenRouter with strict JSON schema validation using **Pydantic**
-- Implemented modular metrics aggregation and exportable benchmarking reports
-
-🔗 Repository: https://github.com/brajeshkumar7/LLM_assisted_models_Evaluation-benchmarking
-
----
 
 ## 🚀 Featured Projects
 
