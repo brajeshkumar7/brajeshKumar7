@@ -46,12 +46,12 @@ I enjoy working on backend-heavy systems, evaluation pipelines, and data-driven 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
-![Next](https://img.shields.io)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 
@@ -82,7 +82,7 @@ I enjoy working on backend-heavy systems, evaluation pipelines, and data-driven 
 ### 💻 Software Engineer – Intern | Roxiler Systems Private Limited
 📍 Pune, India | **March 2026 – Present**  
 
-**Tech:** JavaScript, React, Next.js, Node.js, Express.js, MongoDB, MySQL, REST APIs, Git  
+**Tech:** TypeScript, React, Next, Node.js, Express.js, MongoDB, MySQL, REST APIs, Git  
 
 - Building and enhancing full-stack web applications using the MERN stack, developing reusable React components and scalable backend services to support production features.  
 - Designing and implementing RESTful APIs for authentication, data processing, and business workflows, ensuring secure request handling and efficient client–server communication.  
@@ -131,7 +131,7 @@ I enjoy working on backend-heavy systems, evaluation pipelines, and data-driven 
 ## 🏆 Achievements
 
 - 🧩 Solved **500+ DSA problems** (LeetCode, Code360, GFG)  
-- 🎓 **GATE 2025 Qualified**  
+- 🎓 **GATE 2026 Qualified**  
 - 🥇 **1st Prize** — Inter-College Debate Competition  
 
 ---
