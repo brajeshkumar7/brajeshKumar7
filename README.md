@@ -32,7 +32,7 @@ I’m **Brajesh Kumar**, a **Full Stack Developer** and **AI enthusiast** with h
 I enjoy working on backend-heavy systems, evaluation pipelines, and data-driven workflows that improve reliability, performance, and automation.
 
 - 🎓 B.Tech CSE @ **IIIT Sonepat** (CGPA: **8.1**)
-- 💼 **Software Engineer Intern @ Roxiler Systems**
+- 💼 **Ex-SWE Intern @ Roxiler Systems**
 - 🔬 Research Intern working on **LLM-assisted model evaluation & benchmarking**
 - 🧠 Strong foundation in **DSA, Backend Engineering, Databases & System Design**
 - 🎯 Actively seeking **Software Engineering / Full Stack Developer** roles
@@ -80,7 +80,7 @@ I enjoy working on backend-heavy systems, evaluation pipelines, and data-driven 
 ## 💼 Experience
 
 ### 💻 Software Engineer – Intern | Roxiler Systems Private Limited
-📍 Pune, India | **March 2026 – Present**  
+📍 Pune, India | **March 2026 – April 2026**  
 
 **Tech:** TypeScript, React, Next, Node.js, Express.js, MongoDB, MySQL, REST APIs, Git  
 
